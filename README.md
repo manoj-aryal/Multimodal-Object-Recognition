@@ -1,3 +1,3 @@
 # Robotics-Object-Recognition
 
-**Tsinghua University's Deep Learning Summer
+**Tsinghua University's Deep Learning Summer School
