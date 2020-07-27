@@ -4,6 +4,3 @@
 
 
 Established a multi-modal deep learning architecture for RGB-D datasets and performed object recognition tasks.
-
-test
-second test
